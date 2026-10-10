@@ -6,11 +6,41 @@
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+## About me
 
-###
+IT engineering student by day, professional bug creator by night.
 
-<p data-importer="text" align="left">IT engineering student by day, professional bug creator by night.<br><br>- I write code, break things, and call it debugging.<br>- Building projects that work perfectly... eventually.<br>- Open-source contributor because apparently, one project isn't enough.<br>- Currently fighting with Flutter, arguing with Git, and convincing my code to cooperate.<br>- Turning caffeine, random ideas, and questionable life choices into software.<br><br>Tech Stack: Whatever works, whatever breaks, and whatever the tutorial says.<br><br>Fun fact:  It works on my machine. Don't ask questions.</p>
+<table>
+<tr>
+<td width="35%" align="center" valign="middle">
+<img src="assets/alison.jpg" width="280" alt="Alison's photo"/>
+</td>
+<td>
+
+```text
+----------------------------------------
+ user     : Alison Pinto
+ os       : Arch Linux
+ location : India
+ role     : B.Tech IT Student
+ languages: PHP, JavaScript, Python, Dart
+ editor   : VS Code
+ projects : Songify, Memoria
+ interests: Linux, Open Source, Game Dev
+ status   : Probably debugging something
+----------------------------------------
+```
+
+</td>
+</tr>
+</table>
+
+- I write code, break things, and call it debugging.
+- Building projects that work perfectly... eventually.
+- Open-source contributor because apparently, one project isn't enough.
+- Currently fighting with Flutter, arguing with Git, and convincing my code to cooperate.
+
+**Fun fact:** It works on my machine. Don't ask questions.
 
 ###
 
